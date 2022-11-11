@@ -4,6 +4,8 @@ public class Praktikum {
     public static void main(String[] args) {
         double[] expenses = new double[7];
 
+
+
         Scanner scanner = new Scanner(System.in);
         Converter converter = new Converter(78.5,88.7,0.75); // Вызовите конструктор с параметрами
 
